@@ -23,6 +23,7 @@ header>h1{
     margin: auto;
     text-align: center;
     color: white;
+    font-size: 4vw;
 }
 header>h3{
     padding-bottom: 10px;
@@ -35,6 +36,7 @@ section{
     text-align: left;
     padding: 20px;
     line-height: 3em;
+    font-size: 2.5vw;
 }
 #flor{
     background-image: url('imagens/background001.jpg');
@@ -46,7 +48,7 @@ section{
 #flor>h2{
     color: white;
     background-color: rgba(128, 128, 128, 0.308);
-    width: 300px;
+    display: inline-block;
     padding: 20px;
 }
 #livro{
@@ -58,7 +60,7 @@ section{
 #livro>h2{
     color: white;
     background-color: rgba(128, 128, 128, 0.308);
-    width: 300px;
+    display: inline-block;
     padding: 20px;
 }
 footer{
@@ -66,4 +68,5 @@ footer{
     background-color: black;
     text-align: center;
     padding: 10px;
+    font-size: 2vw;
 }
